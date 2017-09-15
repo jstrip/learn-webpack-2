@@ -1,0 +1,15 @@
+{
+  "name": "learn-webpack01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "rizqi maulana",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.5.6"
+  }
+}

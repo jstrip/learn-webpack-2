@@ -1,5 +1,10 @@
 $blue: blue;
 
 body {
-	background: $blue
+	//background: $blue
+}
+
+p {
+  display: flex;
+  font-size: responsive;
 }

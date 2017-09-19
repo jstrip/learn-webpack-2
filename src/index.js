@@ -1,10 +1,9 @@
 //import './css/main.css';
 import './scss/main.scss';
 
-import {hello, other} from './js/module';
+import {hello} from './js/module';
+import {other} from './js/other';
 
 console.log("hi from webpack")
 hello();
 other();
-
-console.log("webpack watch is working")
